@@ -1,0 +1,239 @@
+
+  .navbar-brand{
+
+  }
+.my-header{
+  overflow: hidden ;
+  background-color:#222222;
+  border-bottom:1px solid red;
+}
+.myicon{
+background-color: #fff;
+}
+.bgicon{
+  background-color: #fff;
+}
+.nav{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration-line: inherit;
+  font-size: 20px;
+  color: rgb(245, 242, 242);
+}
+.nav:hover{
+  color: red;
+  }
+.mybtn{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #fff !important;
+  background-color:  red;
+  border-radius: 6px;
+  padding: 15px 54px;
+
+  }
+.navbox{
+color: #fff !important;
+}
+.navbox:hover{
+color: red !important;
+}
+.bg1img{
+  border: 1px solid red;
+  background-image: url("images/bg1img.jpg");
+
+}
+.welcome{
+ text-align: center;
+ font-family: 'Merriweather', serif;
+ font-family: 'Montserrat', sans-serif;
+ font-family: 'Rowdies', cursive;
+  font-size: 80px;
+  font-weight: 1;
+  color: red;
+}
+.textimg{
+  margin-top: 25px;
+text-align: center;
+}
+.res{
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+
+ font-size: 20px;
+ font-weight: 1;
+ color: red;
+}
+.ourbrand{
+  margin-top: 35px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Rowdies', cursive;
+font-weight: bolder;
+font-size: 35px;
+color: red;
+}
+.para{
+  text-align: center;
+  font-family: var(--e-global-typography-text-font-family ), Sans-serif;
+
+ font-size: 20px;
+ font-weight: 1;
+ color: red;
+}
+.boxcards{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.cards{
+margin: 7px 10px;
+  padding:11%;
+ box-shadow: 5px 10px 23px #222222;
+border: 1px solid #fff;
+background-color: #fff;
+width: 280px;height: 160px;
+border-radius: 5px;
+}
+.margin{
+margin-top: 90px;
+}
+.mapbox{
+  background-color: #222222;
+  width: 100%;height: 100%;
+  }
+.pmap{
+  text-align: center;
+padding-top: 75px;
+
+}
+.saltimg{
+text-align: center;
+margin-top: 28px;
+}
+.franch{
+
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #dc0000
+
+}
+.text2{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+}
+.m-box{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.cardsm{
+  margin-top: 50px;
+    box-shadow: 5px 10px 23px #222222;
+    border: 1px solid #fff;
+    width: 240px;height: 200px;
+    border-radius: 5px;
+}
+.line{
+margin-top: 60px;margin-bottom: 80px;
+  border: #818181;
+  width: 100%;height: 1px;
+background-color: #818181;
+}
+.express{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #dc0000;
+  margin-bottom: 1%;
+
+}
+.line1{
+  margin-left: 42%;
+display: flex;
+  border: #ffffff;
+  width: 15%;height: 2px;
+background-color: #ffffff;
+  }
+  .m-box1{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .cardsm1{
+   margin-top: 50px;
+    box-shadow: 5px 10px 23px #222222;
+    border: 1px solid #fff;
+    width: 240px;height: 200px;
+    border-radius: 5px;
+    }
+    .mapflex{
+
+      box-shadow: #222222;
+     margin-top: 5%;
+    }
+    .line2{
+      margin-top: 60px;margin-bottom: 80x;
+        border: #dc0000;
+        width: 100%;height: 3px;
+      background-color: #dc0000;
+      }
+      .footer {
+        width: 100%;
+        background: #222222;
+        padding: 50px 0px;
+    }
+
+    .social-icons>i {
+        font-size: 10px;
+        margin-top: 2px;
+        color: #dc0000;;
+        margin-right: 10px;
+    }
+    .para{
+      font-size: 15px;
+    }
+
+    .footer-links>h4 {
+        color: #fff;
+    }
+
+    .footer-links>ul {
+        list-style-type: none;
+        padding: 0px;
+    }
+
+    .footer-links>ul>li {
+        color: #fff;
+        line-height: 30px;
+    }
+
+    .footer-address>li {
+        color: #fff;
+    }
+    .footer-address>h4 {
+        color: #fff;
+    }
+
+    .footer-address>span {
+        color: #fff;
+    }
+
+    .footer-links {
+        border-right: 2px solid red;
+        border-left: 2px solid red;
+        padding-left: 30px;
+    }
+
+    .copyright {
+     font-size: 20px;color: #dc0000;
+        background-color:  #222222;
+        box-shadow: rgba(255, 255, 255, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+        text-align: center;
+        padding: 10px;
+    }
